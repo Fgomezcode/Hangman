@@ -147,6 +147,7 @@
   </ItemGroup>
   <ItemGroup>
     <Text Include="hints.txt" />
+    <Text Include="hints_alternate.txt" />
     <Text Include="words.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

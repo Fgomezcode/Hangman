@@ -34,5 +34,8 @@
     <Text Include="hints.txt">
       <Filter>Resource Files</Filter>
     </Text>
+    <Text Include="hints_alternate.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
   </ItemGroup>
 </Project>
